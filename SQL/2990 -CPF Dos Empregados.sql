@@ -1,0 +1,2 @@
+select cpf, enome, dnome  from empregados inner join departamentos on empregados.dnumero = departamentos.dnumero where not exists
+(select * from trabalha where trabalha.cpf_emp = empregados.cpf) order by cpf;
