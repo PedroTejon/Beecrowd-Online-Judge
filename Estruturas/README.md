@@ -3,6 +3,6 @@ Atualmente se encontra neste repositórios as soluções dos seguintes exercíci
 
 | ID | Nome |
 |:---:|:---|
-| 1068  |  Balanço de parênteses i |
-| 1110  |  Jogando Cartas Fora |
+| 1068  | [ Balanço de parênteses i]("Estruturas/1068  -  Balanço de parênteses i") |
+| 1110  | [ Jogando Cartas Fora]("Estruturas/1110  -  Jogando Cartas Fora") |
 
