@@ -1,0 +1,9 @@
+# Matemática
+Atualmente se encontra neste repositórios as soluções dos seguintes exercícios da categoria Matemática:
+
+| ID | Nome |
+|:---:|:---|
+| 1169  |  Trigo no Tabuleiro |
+| 1555  |  Funções |
+| 1585  |  Fazendo Pandorgas |
+

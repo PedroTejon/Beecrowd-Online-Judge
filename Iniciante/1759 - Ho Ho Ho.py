@@ -1,0 +1,1 @@
+print(f'{" ".join(["Ho"] * int(input()))}!')
