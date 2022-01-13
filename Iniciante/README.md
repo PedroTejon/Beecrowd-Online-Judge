@@ -3,7 +3,16 @@ Atualmente se encontra neste repositórios as soluções dos seguintes exercíci
 
 | ID | Nome |
 |:---:|:---|
+| 1000 | Hello World! |
+| 1001  | Extremamente básico |
+| 1002  | Área do Círculo |
+| 1003  | Soma Simples |
+| 1004 | Produto Simples |
+| 1005 | Média 1 |
+| 1006 | Média 2 |
 | 1007  |  Diferença |
+| 1008 | Salário |
+| 1009 | Salário com Bônus |
 | 1011  |  Esfera |
 | 1012  |  Área |
 | 1013  |  O Maior |
