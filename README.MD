@@ -8,6 +8,7 @@ Esses exercícios foram resolvidos majoritariamente por mim para ajudar a melhor
 # Tecnologias utilizadas
 - [Python](https://www.python.org/)
 - [C++](https://www.cplusplus.com/)
+- [Rust](https://www.rust-lang.org/)
 
 ***
 
