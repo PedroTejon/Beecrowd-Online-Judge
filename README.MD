@@ -5,6 +5,22 @@ Esses exercícios foram resolvidos majoritariamente por mim para ajudar a melhor
 
 ***
 
+## Quantidade de Exercícios feitos
+
+| **Categoria** | **Quantidade** |
+|:---|:---:|
+| <a href="Iniciante">Iniciante</a> | 140 |
+| <a href="AD-HOC">AD-HOC</a> | 19 |
+| <a href="Strings">Strings</a> | 28 |
+| <a href="Estruturas">Estruturas</a> | 4 |
+| <a href="Matemática">Matemática</a> | 5 |
+| <a href="Paradigmas">Paradigmas</a> | 0 |
+| <a href="Grafos">Grafos</a> | 2 |
+| <a href="Geometria Computacional">Geometria Computacional</a> | 0 |
+| <a href="SQL">SQL</a> | 37 |
+
+***
+
 ## Tecnologias utilizadas
 - [C++](https://www.cplusplus.com/)
 - [PostgreSQL](https://www.postgresql.org/)
@@ -15,17 +31,3 @@ Esses exercícios foram resolvidos majoritariamente por mim para ajudar a melhor
 
 ## Fonte dos exercícios
 - [Beecrowd](https://www.beecrowd.com.br/judge/en/categories)
-
-## Quantidade de Exercícios feitos
-
-| **Categoria** | **Quantidade** |
-|:---:|:---|
-| <a href="Iniciante">Iniciante</a> | 140 |
-| <a href="AD-HOC">AD-HOC</a> | 19 |
-| <a href="Strings">Strings</a> | 28 |
-| <a href="Estruturas">Estruturas</a> | 4 |
-| <a href="Matemática">Matemática</a> | 5 |
-| <a href="Paradigmas">Paradigmas</a> | 0 |
-| <a href="Grafos">Grafos</a> | 2 |
-| <a href="Geometria Computacional">Geometria Computacional</a> | 0 |
-| <a href="SQL">SQL</a> | 37 |
