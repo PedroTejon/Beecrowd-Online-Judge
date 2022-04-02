@@ -1,145 +1,145 @@
 # Iniciante
 Atualmente se encontra neste repositórios as soluções dos seguintes exercícios da categoria Iniciante:
 
-| ID | Nome |
+| **ID** | **Nome** |
 |:---:|:---|
-| 1000 | Hello World! |
-| 1001 | Extremamente Básico |
-| 1002 | Área do Círculo |
-| 1003 | Soma Simples |
-| 1004 | Produto Simples |
-| 1005 | Média 1 |
-| 1006 | Média 2 |
-| 1007 | Diferença |
-| 1008 | Salário |
-| 1009 | Salário com Bônus |
-| 1011 | Esfera |
-| 1012 | Área |
-| 1013 | O Maior |
-| 1014 | Consumo |
-| 1015 | Distância Entre Dois Pontos |
-| 1016 | Distância |
-| 1018 | Cédulas |
-| 1019 | Conversão de Tempo |
-| 1020 | Idade em Dias |
-| 1021 | Notas e Moedas |
-| 1035 | Teste de Seleção 1 |
-| 1036 | Fórmula de Bhaskara |
-| 1037 | Intervalo |
-| 1040 | Média 3 |
-| 1041 | Coordenadas de um Ponto |
-| 1042 | Sort Simples |
-| 1044 | Múltiplos |
-| 1045 | Tipos de Triângulos |
-| 1046 | Tempo de Jogo |
-| 1047 | Tempo de Jogo com Minutos |
-| 1048 | Aumento de Salário |
-| 1049 | Animal |
-| 1050 | DDD |
-| 1051 | Imposto de Renda |
-| 1052 | Mês |
-| 1061 | Tempo de um Evento |
-| 1064 | Positivos e Média |
-| 1067 | Números Ímpares |
-| 1071 | Soma de Impares Consecutivos I |
-| 1073 | Quadrado de Pares |
-| 1075 | Resto 2 |
-| 1079 | Médias Ponderadas |
-| 1080 | Maior e Posição |
-| 1094 | Experiências |
-| 1095 | Sequencia IJ 1 |
-| 1098 | Sequencia IJ 4 |
-| 1099 | Soma de Ímpares Consecutivos II |
-| 1101 | Sequência de Números e Soma |
-| 1113 | Crescente e Decrescente |
-| 1115 | Quadrante |
-| 1117 | Validação de Nota |
-| 1118 | Várias Notas Com Validação |
-| 1131 | Grenais |
-| 1132 | Múltiplos de 13 |
-| 1133 | Resto da Divisão |
-| 1142 | PUM |
-| 1143 | Quadrado e ao Cubo |
-| 1145 | Sequência Lógica 2 |
-| 1146 | Sequências Crescentes |
-| 1149 | Somando Inteiros Consecutivos |
-| 1150 | Ultrapassando Z |
-| 1151 | Fibonacci Fácil |
-| 1154 | Idades |
-| 1155 | Sequência S |
-| 1156 | Sequência S II |
-| 1157 | Divisores I |
-| 1158 | Soma de Ímpares Consecutivos III |
-| 1175 | Troca em Vetor I |
-| 1176 | Fibonacci em Vetor |
-| 1177 | Preenchimento de Vetor II |
-| 1178 | Preenchimento de Vetor III |
-| 1179 | Preenchimento de Vetor IV |
-| 1180 | Menor e Posição |
-| 1181 | Linha na Matriz |
-| 1182 | Coluna na Matriz |
-| 1183 | Acima da Diagonal Principal |
-| 1184 | Abaixo da Diagonal Principal |
-| 1185 | Acima da Diagonal Secundária |
-| 1186 | Abaixo da Diagonal Secundária |
-| 1187 | Área Superior |
-| 1188 | Área Inferior |
-| 1189 | Área Esquerda |
-| 1190 | Área Direita |
-| 1435 | Matriz Quadrada I |
-| 1478 | Matriz Quadrada II |
-| 1541 | Construindo Casas |
-| 1557 | Matriz Quadrada III |
-| 1564 | Vai Ter Copa? |
-| 1589 | Bob Conduite |
-| 1759 | Ho Ho Ho |
-| 1789 | A Corrida de Lesmas |
-| 1828 | Bazinga! |
-| 1847 | Bem-vindos e Bem-vindas ao Inverno! |
-| 1848 | Corvo Contador |
-| 1858 | A Resposta de Theon |
-| 1864 | Nossos Dias Nunca Voltarão |
-| 1865 | Mjölnir |
-| 1866 | Conta |
-| 1914 | De Quem é a Vez? |
-| 1924 | Vitória e a Indecisão |
-| 1929 | Triângulo |
-| 1930 | Tomadas |
-| 1933 | Tri-du |
-| 1957 | Converter para Hexadecimal |
-| 1958 | Notação Científica |
-| 1959 | Polígonos Regulares Simples |
-| 1961 | Pula Sapo |
-| 1962 | Há Muito, Muito Tempo Atrás |
-| 1963 | O Filme |
-| 1973 | Jornada nas Estrelas |
-| 1985 | MacPRONALTS |
-| 2006 | Identificando o Chá |
-| 2061 | As Abas de Péricles |
-| 2152 | Pepe, Já Tirei a Vela! |
-| 2172 | Evento |
-| 2234 | Cachorros-Quentes |
-| 2344 | Notas da Prova |
-| 2702 | Escolha Difícil |
-| 2712 | Rodízio Veicular |
-| 2750 | Saída 4 |
-| 2752 | Saída 6 |
-| 2753 | Saída 7 |
-| 2754 | Saída 8 |
-| 2755 | Saída 9 |
-| 2756 | Saída 10 |
-| 2758 | Entrada e Saída de Números Reais |
-| 2759 | Entrada e Saída de Carácter |
-| 2760 | Entrada e Saída de String |
-| 2765 | Entrada e Saída com Virgula |
-| 2766 | Entrada e Saída Lendo e Pulando Nomes |
-| 2780 | Basquete de Robôs |
-| 2786 | Piso da Escola |
-| 2791 | Feijão |
-| 2861 | A Saída |
-| 2862 | Inseto! |
-| 2936 | Quanta Mandioca? |
-| 3055 | Nota Esquecida |
-| 3146 | Charadas no Escuro |
-| 3170 | Bolinhas de Natal |
-| 3174 | Grupo de Trabalho do Noel |
+| **1000**|<a href="1000 - Hello World!.rs"> Hello World!</a> |
+| **1001**|<a href="1001 - Extremamente Básico.rs"> Extremamente Básico</a> |
+| **1002**|<a href="1002 - Área do Círculo.rs"> Área do Círculo</a> |
+| **1003**|<a href="1003 - Soma Simples.rs"> Soma Simples</a> |
+| **1004**|<a href="1004 - Produto Simples.rs"> Produto Simples</a> |
+| **1005**|<a href="1005 - Média 1.rs"> Média 1</a> |
+| **1006**|<a href="1006 - Média 2.rs"> Média 2</a> |
+| **1007**|<a href="1007 - Diferença.cpp"> Diferença</a> |
+| **1008**|<a href="1008 - Salário.rs"> Salário</a> |
+| **1009**|<a href="1009 - Salário com Bônus.rs"> Salário com Bônus</a> |
+| **1011**|<a href="1011 - Esfera.py"> Esfera</a> |
+| **1012**|<a href="1012 - Área.py"> Área</a> |
+| **1013**|<a href="1013 - O Maior.cpp"> O Maior</a> |
+| **1014**|<a href="1014 - Consumo.cpp"> Consumo</a> |
+| **1015**|<a href="1015 - Distância Entre Dois Pontos.cpp"> Distância Entre Dois Pontos</a> |
+| **1016**|<a href="1016 - Distância.cpp"> Distância</a> |
+| **1018**|<a href="1018 - Cédulas.cpp"> Cédulas</a> |
+| **1019**|<a href="1019 - Conversão de Tempo.py"> Conversão de Tempo</a> |
+| **1020**|<a href="1020 - Idade em Dias.py"> Idade em Dias</a> |
+| **1021**|<a href="1021 - Notas e Moedas.py"> Notas e Moedas</a> |
+| **1035**|<a href="1035 - Teste de Seleção 1.py"> Teste de Seleção 1</a> |
+| **1036**|<a href="1036 - Fórmula de Bhaskara.py"> Fórmula de Bhaskara</a> |
+| **1037**|<a href="1037 - Intervalo.py"> Intervalo</a> |
+| **1040**|<a href="1040 - Média 3.py"> Média 3</a> |
+| **1041**|<a href="1041 - Coordenadas de um Ponto.py"> Coordenadas de um Ponto</a> |
+| **1042**|<a href="1042 - Sort Simples.py"> Sort Simples</a> |
+| **1044**|<a href="1044 - Múltiplos.py"> Múltiplos</a> |
+| **1045**|<a href="1045 - Tipos de Triângulos.py"> Tipos de Triângulos</a> |
+| **1046**|<a href="1046 - Tempo de Jogo.py"> Tempo de Jogo</a> |
+| **1047**|<a href="1047 - Tempo de Jogo com Minutos.py"> Tempo de Jogo com Minutos</a> |
+| **1048**|<a href="1048 - Aumento de Salário.py"> Aumento de Salário</a> |
+| **1049**|<a href="1049 - Animal.py"> Animal</a> |
+| **1050**|<a href="1050 - DDD.py"> DDD</a> |
+| **1051**|<a href="1051 - Imposto de Renda.py"> Imposto de Renda</a> |
+| **1052**|<a href="1052 - Mês.py"> Mês</a> |
+| **1061**|<a href="1061 - Tempo de um Evento.py"> Tempo de um Evento</a> |
+| **1064**|<a href="1064 - Positivos e Média.py"> Positivos e Média</a> |
+| **1067**|<a href="1067 - Números Ímpares.py"> Números Ímpares</a> |
+| **1071**|<a href="1071 - Soma de Impares Consecutivos I.py"> Soma de Impares Consecutivos I</a> |
+| **1073**|<a href="1073 - Quadrado de Pares.py"> Quadrado de Pares</a> |
+| **1075**|<a href="1075 - Resto 2.py"> Resto 2</a> |
+| **1079**|<a href="1079 - Médias Ponderadas.py"> Médias Ponderadas</a> |
+| **1080**|<a href="1080 - Maior e Posição.py"> Maior e Posição</a> |
+| **1094**|<a href="1094 - Experiências.py"> Experiências</a> |
+| **1095**|<a href="1095 - Sequencia IJ 1.py"> Sequencia IJ 1</a> |
+| **1098**|<a href="1098 - Sequencia IJ 4.py"> Sequencia IJ 4</a> |
+| **1099**|<a href="1099 - Soma de Ímpares Consecutivos II.py"> Soma de Ímpares Consecutivos II</a> |
+| **1101**|<a href="1101 - Sequência de Números e Soma.py"> Sequência de Números e Soma</a> |
+| **1113**|<a href="1113 - Crescente e Decrescente.py"> Crescente e Decrescente</a> |
+| **1115**|<a href="1115 - Quadrante.py"> Quadrante</a> |
+| **1117**|<a href="1117 - Validação de Nota.py"> Validação de Nota</a> |
+| **1118**|<a href="1118 - Várias Notas Com Validação.py"> Várias Notas Com Validação</a> |
+| **1131**|<a href="1131 - Grenais.py"> Grenais</a> |
+| **1132**|<a href="1132 - Múltiplos de 13.py"> Múltiplos de 13</a> |
+| **1133**|<a href="1133 - Resto da Divisão.py"> Resto da Divisão</a> |
+| **1142**|<a href="1142 - PUM.py"> PUM</a> |
+| **1143**|<a href="1143 - Quadrado e ao Cubo.py"> Quadrado e ao Cubo</a> |
+| **1145**|<a href="1145 - Sequência Lógica 2.py"> Sequência Lógica 2</a> |
+| **1146**|<a href="1146 - Sequências Crescentes.py"> Sequências Crescentes</a> |
+| **1149**|<a href="1149 - Somando Inteiros Consecutivos.py"> Somando Inteiros Consecutivos</a> |
+| **1150**|<a href="1150 - Ultrapassando Z.py"> Ultrapassando Z</a> |
+| **1151**|<a href="1151 - Fibonacci Fácil.py"> Fibonacci Fácil</a> |
+| **1154**|<a href="1154 - Idades.py"> Idades</a> |
+| **1155**|<a href="1155 - Sequência S.py"> Sequência S</a> |
+| **1156**|<a href="1156 - Sequência S II.py"> Sequência S II</a> |
+| **1157**|<a href="1157 - Divisores I.py"> Divisores I</a> |
+| **1158**|<a href="1158 - Soma de Ímpares Consecutivos III.py"> Soma de Ímpares Consecutivos III</a> |
+| **1175**|<a href="1175 - Troca em Vetor I.py"> Troca em Vetor I</a> |
+| **1176**|<a href="1176 - Fibonacci em Vetor.py"> Fibonacci em Vetor</a> |
+| **1177**|<a href="1177 - Preenchimento de Vetor II.py"> Preenchimento de Vetor II</a> |
+| **1178**|<a href="1178 - Preenchimento de Vetor III.py"> Preenchimento de Vetor III</a> |
+| **1179**|<a href="1179 - Preenchimento de Vetor IV.py"> Preenchimento de Vetor IV</a> |
+| **1180**|<a href="1180 - Menor e Posição.py"> Menor e Posição</a> |
+| **1181**|<a href="1181 - Linha na Matriz.py"> Linha na Matriz</a> |
+| **1182**|<a href="1182 - Coluna na Matriz.py"> Coluna na Matriz</a> |
+| **1183**|<a href="1183 - Acima da Diagonal Principal.py"> Acima da Diagonal Principal</a> |
+| **1184**|<a href="1184 - Abaixo da Diagonal Principal.py"> Abaixo da Diagonal Principal</a> |
+| **1185**|<a href="1185 - Acima da Diagonal Secundária.py"> Acima da Diagonal Secundária</a> |
+| **1186**|<a href="1186 - Abaixo da Diagonal Secundária.py"> Abaixo da Diagonal Secundária</a> |
+| **1187**|<a href="1187 - Área Superior.py"> Área Superior</a> |
+| **1188**|<a href="1188 - Área Inferior.py"> Área Inferior</a> |
+| **1189**|<a href="1189 - Área Esquerda.py"> Área Esquerda</a> |
+| **1190**|<a href="1190 - Área Direita.py"> Área Direita</a> |
+| **1435**|<a href="1435 - Matriz Quadrada I.cpp"> Matriz Quadrada I</a> |
+| **1478**|<a href="1478 - Matriz Quadrada II.py"> Matriz Quadrada II</a> |
+| **1541**|<a href="1541 - Construindo Casas.py"> Construindo Casas</a> |
+| **1557**|<a href="1557 - Matriz Quadrada III.py"> Matriz Quadrada III</a> |
+| **1564**|<a href="1564 - Vai Ter Copa.py"> Vai Ter Copa?</a> |
+| **1589**|<a href="1589 - Bob Conduite.py"> Bob Conduite</a> |
+| **1759**|<a href="1759 - Ho Ho Ho.py"> Ho Ho Ho</a> |
+| **1789**|<a href="1789 - A Corrida de Lesmas.py"> A Corrida de Lesmas</a> |
+| **1828**|<a href="1828 - Bazinga!.py"> Bazinga!</a> |
+| **1847**|<a href="1847 - Bem-vindos e Bem-vindas ao Inverno!.py"> Bem-vindos e Bem-vindas ao Inverno!</a> |
+| **1848**|<a href="1848 - Corvo Contador.py"> Corvo Contador</a> |
+| **1858**|<a href="1858 - A Resposta de Theon.py"> A Resposta de Theon</a> |
+| **1864**|<a href="1864 - Nossos Dias Nunca Voltarão.py"> Nossos Dias Nunca Voltarão</a> |
+| **1865**|<a href="1865 - Mjölnir.py"> Mjölnir</a> |
+| **1866**|<a href="1866 - Conta.py"> Conta</a> |
+| **1914**|<a href="1914 - De Quem é a Vez.py"> De Quem é a Vez?</a> |
+| **1924**|<a href="1924 - Vitória e a Indecisão.py"> Vitória e a Indecisão</a> |
+| **1929**|<a href="1929 - Triângulo.py"> Triângulo</a> |
+| **1930**|<a href="1930 - Tomadas.py"> Tomadas</a> |
+| **1933**|<a href="1933 - Tri-du.py"> Tri-du</a> |
+| **1957**|<a href="1957 - Converter para Hexadecimal.py"> Converter para Hexadecimal</a> |
+| **1958**|<a href="1958 - Notação Científica.py"> Notação Científica</a> |
+| **1959**|<a href="1959 - Polígonos Regulares Simples.py"> Polígonos Regulares Simples</a> |
+| **1961**|<a href="1961 - Pula Sapo.py"> Pula Sapo</a> |
+| **1962**|<a href="1962 - Há Muito, Muito Tempo Atrás.py"> Há Muito, Muito Tempo Atrás</a> |
+| **1963**|<a href="1963 - O Filme.py"> O Filme</a> |
+| **1973**|<a href="1973 - Jornada nas Estrelas.py"> Jornada nas Estrelas</a> |
+| **1985**|<a href="1985 - MacPRONALTS.py"> MacPRONALTS</a> |
+| **2006**|<a href="2006 - Identificando o Chá.py"> Identificando o Chá</a> |
+| **2061**|<a href="2061 - As Abas de Péricles.py"> As Abas de Péricles</a> |
+| **2152**|<a href="2152 - Pepe, Já Tirei a Vela!.py"> Pepe, Já Tirei a Vela!</a> |
+| **2172**|<a href="2172 - Evento.py"> Evento</a> |
+| **2234**|<a href="2234 - Cachorros-Quentes.py"> Cachorros-Quentes</a> |
+| **2344**|<a href="2344 - Notas da Prova.py"> Notas da Prova</a> |
+| **2702**|<a href="2702 - Escolha Difícil.py"> Escolha Difícil</a> |
+| **2712**|<a href="2712 - Rodízio Veicular.py"> Rodízio Veicular</a> |
+| **2750**|<a href="2750 - Saída 4.py"> Saída 4</a> |
+| **2752**|<a href="2752 - Saída 6.py"> Saída 6</a> |
+| **2753**|<a href="2753 - Saída 7.py"> Saída 7</a> |
+| **2754**|<a href="2754 - Saída 8.py"> Saída 8</a> |
+| **2755**|<a href="2755 - Saída 9.py"> Saída 9</a> |
+| **2756**|<a href="2756 - Saída 10.py"> Saída 10</a> |
+| **2758**|<a href="2758 - Entrada e Saída de Números Reais.py"> Entrada e Saída de Números Reais</a> |
+| **2759**|<a href="2759 - Entrada e Saída de Carácter.py"> Entrada e Saída de Carácter</a> |
+| **2760**|<a href="2760 - Entrada e Saída de String.py"> Entrada e Saída de String</a> |
+| **2765**|<a href="2765 - Entrada e Saída com Virgula.py"> Entrada e Saída com Virgula</a> |
+| **2766**|<a href="2766 - Entrada e Saída Lendo e Pulando Nomes.py"> Entrada e Saída Lendo e Pulando Nomes</a> |
+| **2780**|<a href="2780 - Basquete de Robôs.py"> Basquete de Robôs</a> |
+| **2786**|<a href="2786 - Piso da Escola.py"> Piso da Escola</a> |
+| **2791**|<a href="2791 - Feijão.py"> Feijão</a> |
+| **2861**|<a href="2861 - A Saída.py"> A Saída</a> |
+| **2862**|<a href="2862 - Inseto!.py"> Inseto!</a> |
+| **2936**|<a href="2936 - Quanta Mandioca.py"> Quanta Mandioca?</a> |
+| **3055**|<a href="3055 - Nota Esquecida.py"> Nota Esquecida</a> |
+| **3146**|<a href="3146 - Charadas no Escuro.py"> Charadas no Escuro</a> |
+| **3170**|<a href="3170 - Bolinhas de Natal.py"> Bolinhas de Natal</a> |
+| **3174**|<a href="3174 - Grupo de Trabalho do Noel.py"> Grupo de Trabalho do Noel</a> |
