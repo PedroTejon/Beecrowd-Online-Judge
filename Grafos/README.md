@@ -3,7 +3,6 @@ Atualmente se encontra neste repositórios as soluções dos seguintes exercíci
 
 | ID | Nome |
 |:---:|:---|
-| 1152  |  Estradas Escuras |
-| 1774  |  Roteadores |
-| 2784  |  Ilhas |
-
+| 1152 | Estradas Escuras |
+| 1774 | Roteadores |
+| 2784 | Ilhas |

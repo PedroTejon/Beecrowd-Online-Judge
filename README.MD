@@ -5,12 +5,13 @@ Esses exercícios foram resolvidos majoritariamente por mim para ajudar a melhor
 
 ***
 
-# Tecnologias utilizadas
-- [Python](https://www.python.org/)
+## Tecnologias utilizadas
 - [C++](https://www.cplusplus.com/)
+- [PostgreSQL](https://www.postgresql.org/)
+- [Python](https://www.python.org/)
 - [Rust](https://www.rust-lang.org/)
 
 ***
 
-# Fonte dos exercícios
+## Fonte dos exercícios
 - [Beecrowd](https://www.beecrowd.com.br/judge/en/categories)

@@ -1,0 +1,1 @@
+print(f'{float(input()) * 3.14 * 2:.2f}')

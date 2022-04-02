@@ -3,7 +3,7 @@ Atualmente se encontra neste repositórios as soluções dos seguintes exercíci
 
 | ID | Nome |
 |:---:|:---|
-| 1169  |  Trigo no Tabuleiro |
-| 1555  |  Funções |
-| 1585  |  Fazendo Pandorgas |
-
+| 1169 | Trigo no Tabuleiro |
+| 1197 | Volta à Faculdade de Física |
+| 1555 | Funções |
+| 1585 | Fazendo Pandorgas |
