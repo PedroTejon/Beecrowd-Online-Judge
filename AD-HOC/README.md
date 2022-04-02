@@ -8,6 +8,7 @@ Atualmente se encontra neste repositórios as soluções dos seguintes exercíci
 | **1483**|<a href="1483 - Jogo do Bicho.py"> Jogo do Bicho</a> |
 | **1546**|<a href="1546 - Feedback.py"> Feedback</a> |
 | **1943**|<a href="1943 - Top N.py"> Top N</a> |
+| **2286**|<a href="2286 - Par ou Ímpar.py"> Par ou Ímpar</a> |
 | **2339**|<a href="2339 - Aviões de Papel.py"> Aviões de Papel</a> |
 | **2369**|<a href="2369 - Conta de Água.py"> Conta de Água</a> |
 | **2374**|<a href="2374 - Pneu.py"> Pneu</a> |
