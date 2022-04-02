@@ -19,7 +19,7 @@ Esses exercícios foram resolvidos majoritariamente por mim para ajudar a melhor
 ## Quantidade de Exercícios feitos
 
 | **Categoria** | **Quantidade** |
-|:---:|:---|
+|:---|:---:|
 | <a href="Iniciante">Iniciante</a> | 140 |
 | <a href="AD-HOC">AD-HOC</a> | 19 |
 | <a href="Strings">Strings</a> | 28 |
