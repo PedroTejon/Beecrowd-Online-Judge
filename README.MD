@@ -5,17 +5,6 @@ Esses exercícios foram resolvidos majoritariamente por mim para ajudar a melhor
 
 ***
 
-## Tecnologias utilizadas
-- [C++](https://www.cplusplus.com/)
-- [PostgreSQL](https://www.postgresql.org/)
-- [Python](https://www.python.org/)
-- [Rust](https://www.rust-lang.org/)
-
-***
-
-## Fonte dos exercícios
-- [Beecrowd](https://www.beecrowd.com.br/judge/en/categories)
-
 ## Quantidade de Exercícios feitos
 
 | **Categoria** | **Quantidade** |
@@ -29,3 +18,16 @@ Esses exercícios foram resolvidos majoritariamente por mim para ajudar a melhor
 | <a href="Grafos">Grafos</a> | 2 |
 | <a href="Geometria Computacional">Geometria Computacional</a> | 0 |
 | <a href="SQL">SQL</a> | 37 |
+
+***
+
+## Tecnologias utilizadas
+- [C++](https://www.cplusplus.com/)
+- [PostgreSQL](https://www.postgresql.org/)
+- [Python](https://www.python.org/)
+- [Rust](https://www.rust-lang.org/)
+
+***
+
+## Fonte dos exercícios
+- [Beecrowd](https://www.beecrowd.com.br/judge/en/categories)
